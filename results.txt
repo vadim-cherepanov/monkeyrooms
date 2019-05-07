@@ -1,0 +1,85 @@
+# AMD FX-9800P (~i5 6th generation)
+# 8GB RAM (1GB used)
+
+Maximum number of room checks per day: 2
+Require all checked rooms to be different? n
+Circular? n
+Rooms # 1 Days # 1 Solutions # 1        | 0.0 sec
+Rooms # 2 Days # 1 Solutions # 1        | 0.0 sec
+Rooms # 3 Days # 2 Solutions # 10       | 0.0 sec
+Rooms # 4 Days # 2 Solutions # 3        | 0.0 sec
+Rooms # 5 Days # 2 Solutions # 1        | 0.0 sec
+Rooms # 6 Days # 3 Solutions # 2        | 0.0 sec
+Rooms # 7 Days # 4 Solutions # 26       | 0.0 sec
+Rooms # 8 Days # 4 Solutions # 2        | 0.0 sec
+Rooms # 9 Days # 6 Solutions # 3504     | 0.0 sec
+Rooms # 10 Days # 6 Solutions # 76      | 0.0 sec
+Rooms # 11 Days # 6 Solutions # 4       | 0.0 sec
+Rooms # 12 Days # 7 Solutions # 2       | 0.0 sec
+Rooms # 13 Days # 8 Solutions # 80      | 0.0 sec
+Rooms # 14 Days # 8 Solutions # 2       | 0.0 sec
+Rooms # 15 Days # 10 Solutions # 29376  | 0.0 sec
+Rooms # 16 Days # 10 Solutions # 76     | 0.0 sec
+Rooms # 17 Days # 10 Solutions # 4      | 0.0 sec
+Rooms # 18 Days # 11 Solutions # 2      | 0.0 sec
+Rooms # 19 Days # 12 Solutions # 80     | 0.0 sec
+Rooms # 20 Days # 12 Solutions # 2      | 0.0 sec
+Rooms # 21 Days # 14 Solutions # 99072  | 0.0 sec
+Rooms # 22 Days # 14 Solutions # 76     | 0.0 sec
+Rooms # 23 Days # 14 Solutions # 4      | 0.0 sec
+Rooms # 24 Days # 15 Solutions # 2      | 0.0 sec
+Rooms # 25 Days # 16 Solutions # 80     | 0.1 sec
+Rooms # 26 Days # 16 Solutions # 2      | 0.1 sec
+Rooms # 27 Days # 18 Solutions # 256512 | 0.2 sec
+Rooms # 28 Days # 18 Solutions # 76     | 0.3 sec
+Rooms # 29 Days # 18 Solutions # 4      | 0.5 sec
+Rooms # 30 Days # 19 Solutions # 2      | 0.7 sec
+Rooms # 31 Days # 20 Solutions # 80     | 1.3 sec
+Rooms # 32 Days # 20 Solutions # 2      | 1.7 sec
+Rooms # 33 Days # 22 Solutions # 556992 | 3.3 sec
+Total time: 8.5 sec
+Show all solutions for Rooms # 0
+
+# Intel i3 8100b
+# 8GB RAM (4GB used)
+
+Maximum number of room checks per day: 2
+Require all checked rooms to be different? n
+Circular? n
+Rooms # 1 Days # 1 Solutions # 1	| 0.0 sec
+Rooms # 2 Days # 1 Solutions # 1	| 0.0 sec
+Rooms # 3 Days # 2 Solutions # 10	| 0.0 sec
+Rooms # 4 Days # 2 Solutions # 3	| 0.0 sec
+Rooms # 5 Days # 2 Solutions # 1	| 0.0 sec
+Rooms # 6 Days # 3 Solutions # 2	| 0.0 sec
+Rooms # 7 Days # 4 Solutions # 26	| 0.0 sec
+Rooms # 8 Days # 4 Solutions # 2	| 0.0 sec
+Rooms # 9 Days # 6 Solutions # 3504	| 0.0 sec
+Rooms # 10 Days # 6 Solutions # 76	| 0.0 sec
+Rooms # 11 Days # 6 Solutions # 4	| 0.0 sec
+Rooms # 12 Days # 7 Solutions # 2	| 0.0 sec
+Rooms # 13 Days # 8 Solutions # 80	| 0.0 sec
+Rooms # 14 Days # 8 Solutions # 2	| 0.0 sec
+Rooms # 15 Days # 10 Solutions # 29376	| 0.0 sec
+Rooms # 16 Days # 10 Solutions # 76	| 0.0 sec
+Rooms # 17 Days # 10 Solutions # 4	| 0.0 sec
+Rooms # 18 Days # 11 Solutions # 2	| 0.0 sec
+Rooms # 19 Days # 12 Solutions # 80	| 0.0 sec
+Rooms # 20 Days # 12 Solutions # 2	| 0.0 sec
+Rooms # 21 Days # 14 Solutions # 99072	| 0.0 sec
+Rooms # 22 Days # 14 Solutions # 76	| 0.0 sec
+Rooms # 23 Days # 14 Solutions # 4	| 0.0 sec
+Rooms # 24 Days # 15 Solutions # 2	| 0.0 sec
+Rooms # 25 Days # 16 Solutions # 80	| 0.0 sec
+Rooms # 26 Days # 16 Solutions # 2	| 0.1 sec
+Rooms # 27 Days # 18 Solutions # 256512	| 0.1 sec
+Rooms # 28 Days # 18 Solutions # 76	| 0.2 sec
+Rooms # 29 Days # 18 Solutions # 4	| 0.2 sec
+Rooms # 30 Days # 19 Solutions # 2	| 0.4 sec
+Rooms # 31 Days # 20 Solutions # 80	| 0.6 sec
+Rooms # 32 Days # 20 Solutions # 2	| 0.9 sec
+Rooms # 33 Days # 22 Solutions # 556992	| 1.7 sec
+Rooms # 34 Days # 22 Solutions # 76	| 2.6 sec
+Rooms # 35 Days # 22 Solutions # 4	| 4.6 sec
+Total time: 11.5 sec
+Show all solutions for Rooms # 0
