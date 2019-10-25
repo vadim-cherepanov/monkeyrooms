@@ -1,6 +1,6 @@
 # Monkey Rooms
 
-My daughter brought from her school this problem:
+# My daughter brought from her school this problem:
 
 _There is a string of 17 pairwise connected rooms, where a monkey hides.
 Each day you can check two rooms to see if the monkey is in there.
